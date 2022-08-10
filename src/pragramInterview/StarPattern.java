@@ -27,6 +27,8 @@ public class StarPattern {
 
 			System.out.print(k + " ");
 		}
+		
+		System.out.println("End......");
 
 	}
 
