@@ -31,6 +31,8 @@ public class StarPattern {
 		System.out.println("End......");
 
 		System.out.println("End1......");
+		
+			System.out.println("End2......");
 
 	}
 
